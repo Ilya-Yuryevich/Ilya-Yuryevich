@@ -18,14 +18,18 @@ Python · Машинное обучение · Анализ данных
 
 С чем работаю:
 -Python
+
 -Pandas · NumPy
+
 -LightGBM
+
 -Jupyter
+
 -Git
 
 <div align="center">
 
-<img src="./assets/rebecca2.gif" width="400">
+<img src="./assets/rebecca2.gif" width="500">
 
 
 </div>
