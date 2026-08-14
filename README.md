@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/rebecca1.gif" width="500">
+</p>
 
-<!--
-**Ilya-Yuryevich/Ilya-Yuryevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, я Илья
 
-Here are some ideas to get you started:
+Python · Машинное обучение · Анализ данных
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Начал программировать в октябре 2025 года.
+Сейчас изучаю Python и работаю над своим первым серьёзным ML-проектом.
+</div>
+
+В основном работаю с Python
+Интересуюсь машинным обучением и анализом данных
+Разрабатываю ML-систему для исследования криптовалютного рынка
+Учусь через реальные проекты, эксперименты и многочасовую отладку
+Люблю аниме и чипсы со вкусом паприки
+
+С чем работаю:
+-Python
+-Pandas · NumPy
+-LightGBM
+-Jupyter
+-Git
+
+<div align="center">
+
+<img src="./assets/rebecca2.gif" width="400">
+
+
+</div>
